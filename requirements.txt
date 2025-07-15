@@ -3,3 +3,4 @@ catalyst==19.7.4
 tqdm
 albumentations==0.3.2
 scikit-learn==0.21.3
+urllib3>=2.5.0 # not directly required, pinned by Snyk to avoid a vulnerability
